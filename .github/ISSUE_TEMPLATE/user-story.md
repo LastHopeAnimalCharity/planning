@@ -7,6 +7,13 @@ assignees: ''
 
 ---
 
-**As A** __Persona__
-**I Want** __Action__
-**So That** __Benefit
+### User Story
+**As A** _Persona_
+**I Want** _Action_
+**So That** _Benefit_
+
+### References
+
+### Acceptance Criteria
+- [ ] AC 1:
+- [ ] AC 2:
